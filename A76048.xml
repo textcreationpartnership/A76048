@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>All the proceedings at the sessions of the peace holden at Westminster, on the 20. day of Iune, 1651. against Thomas Tydford, Elizabeth Sorrell the elder, Margaret Dunlape, Anne Burley, Frances Bedwell, Elizabeth Sorrell the yonger, and Thomas Kearby. Together, with their severall examinations and behaviours before the justices, and the petition of six of them, as also their recantation; with the sentence and punishment of Thomas Kearby, for his blasphemous impiety, and wilfull obstinacy. To which is added a postscript, to deterre all men to avoyd such horrid blasphemies. This is perused (and thought fit to be published) by divers of the justices of the peace within the city and liberty of Westminster, for the satisfaction of the publique. July 22. 1651. E.H.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76048</idno>
+            <idno type="STC">Wing A946</idno>
+            <idno type="STC">Thomason E637_18</idno>
+            <idno type="STC">ESTC R206618</idno>
+            <idno type="EEBO-CITATION">99865737</idno>
+            <idno type="PROQUEST">99865737</idno>
+            <idno type="VID">165906</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165906)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E637[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>All the proceedings at the sessions of the peace holden at Westminster, on the 20. day of Iune, 1651. against Thomas Tydford, Elizabeth Sorrell the elder, Margaret Dunlape, Anne Burley, Frances Bedwell, Elizabeth Sorrell the yonger, and Thomas Kearby. Together, with their severall examinations and behaviours before the justices, and the petition of six of them, as also their recantation; with the sentence and punishment of Thomas Kearby, for his blasphemous impiety, and wilfull obstinacy. To which is added a postscript, to deterre all men to avoyd such horrid blasphemies. This is perused (and thought fit to be published) by divers of the justices of the peace within the city and liberty of Westminster, for the satisfaction of the publique. July 22. 1651. E.H.</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Harper,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tydford, Thomas.</term>
+               <term>Sorrell, Elizabeth, --  the elder.</term>
+               <term>Sorrell, Elizabeth, --  the younger.</term>
+               <term>Dunlape, Margaret.</term>
+               <term>Burley, Anne.</term>
+               <term>Bedwell, Frances.</term>
+               <term>Kearby, Thomas.</term>
+               <term>Blasphemy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165906:1" rendition="simple:additions"/>
+            <p>ALL THE PROCEEDINGS AT THE SESSIONS Of the Peace holden at <hi>Westminster,</hi> on the 20. day of <hi>Iune,</hi> 1651. againſt <hi>Thomas Tydford, Elizabeth Sorrell</hi> the Elder, <hi>Margaret Dunlape, Anne Burley, Frances Bedwell, Elizabeth Sorrell</hi> the Yonger, and <hi>Thomas Kearby.</hi>
+            </p>
+            <p>Together, with their ſeverall Examinations and Behaviours before the Juſtices, and the Petition of ſix of them, as alſo their Recantation; with the ſentence and puniſhment of <hi>Thomas Kearby,</hi> for his blaſphemous impiety, and wilfull ob<g ref="char:EOLhyphen"/>ſtinacy.</p>
+            <p>To which is added a Poſtſcript, to deterre all men to avoyd ſuch horrid blaſphemies.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="approbation">
+                        <p>This is peruſed (and thought fit to be publiſhed) by divers of the Juſti<g ref="char:EOLhyphen"/>ces of the Peace within the City and Liberty of <hi>Weſtminſter,</hi> for ſatisfaction of the Publique.</p>
+                        <closer>
+                           <date>
+                              <hi>July 22. 1651.</hi>
+                           </date>
+                           <signed>E. H.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Thomas Harper,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165906:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:165906:2"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="examination">
+                        <head>
+                           <hi>The Examination of</hi> Thomas Tydford Eliza<g ref="char:EOLhyphen"/>beth Sorrell <hi>the elder,</hi> Margaret Dunlape, Anne Burley, Frances Bedwell, Elizabeth Sorrell <hi>the yonger, &amp;</hi> Thomas Kearby, &amp;c.</head>
+                        <p>
+                           <hi>
+                              <seg rend="decorInit">T</seg>Homas Tydford</hi> being asked where <hi>John Robins, a<g ref="char:EOLhyphen"/>lias Roberts</hi> dwelleth, he ſaith he knoweth not, nor what trade he is of, but he doth believe that the ſayd <hi>Robins, alias Roberts,</hi> is the God and Father of our Lord and Saviour Jeſus Chriſt, and ſaith that the wife of the ſayd <hi>Ro<g ref="char:EOLhyphen"/>bins, alias Roberts,</hi> ſhall bring forth a man child that ſhall be the Saviour of all that ſhall be ſaved in this world; he affirmeth further, that <hi>Caine</hi> who ſlew his brother <hi>Abell</hi> is the third Per<g ref="char:EOLhyphen"/>ſon of the Trinity, and that thoſe that deny it, deny their own ſalvation; he ſaith further, that the ſayd <hi>John Robins, alias Ro<g ref="char:EOLhyphen"/>berts,</hi> hath power to raiſe the dead.</p>
+                        <closer>
+                           <signed>The marke of M <hi>Thomas Tydford.</hi>
+                           </signed>
+
+
+                           <signed>Exam. by <hi>Lawrence Whitaker.</hi>
+                           </signed>
+                        </closer>
+                        <postscript>
+                           <p>All the above named Examinants agree with <hi>Thomas Tydford,</hi> and affirme the ſame, and put thereto their hands at the ſame time.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>The marke M of <hi>Margaret Dunlape.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Anne Burley.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Thomas Kearby.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Elizabeth Sorrell ſenior,</hi> ❀ her marke.</item>
+                                    <item>
+                                       <hi>Elizabeth Sorrell junior,</hi> her ‖ marke.</item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </postscript>
+                        <postscript>
+                           <pb n="4" facs="tcp:165906:3"/>
+                           <p>
+                              <hi>Frances Bedwell,</hi> ſhe believes it by ſignes that ſhe hath ſeene done by him the ſayd <hi>Robins, alias Roberts, (viz.)</hi> by ſtriking a woman dead, and raiſing her againe.</p>
+                           <closer>
+                              <signed>
+                                 <hi>Frances</hi> + <hi>Bedwell</hi> her marke.</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Upon their Examination and Confeſſion of thoſe damnable er<g ref="char:EOLhyphen"/>rours and blaſphemies aforeſayd, they were all committed to priſon without baile or mainprize untill the next Generall Seſ<g ref="char:EOLhyphen"/>ſions of the Peace for the City and Liberty of <hi>Weſtminſter</hi> to be holden the 20. day of <hi>June,</hi> then next following, and then to re<g ref="char:EOLhyphen"/>ceive their tryall for the ſayd blaſphemies: but in the meane time they ſent this enſuing petition to Mr. <hi>Whitaker,</hi> onely <hi>Tho<g ref="char:EOLhyphen"/>mas Kearby</hi> remained ſtill obſtinate in his blaſphemous way, and would not joyne with the Petitioners therein.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Right Worſhipfull, <hi>Lawrence Whitaker,</hi> Eſquier, one of the Juſtices of the Peace for the City, and Liberty of <hi>Weſtminſter.</hi>
+                        </head>
+                        <head type="sub">
+                           <hi>The humble Petition of</hi> Thomas Tydford, Anne Burley, Elizabeth Sorrell, <hi>and her daughter</hi> Elizabeth Sorrell, Margaret Dunlape, <hi>and</hi> Frances Bedwell.</head>
+                        <opener>Sheweth:</opener>
+                        <p>THat your poore Petitioners having through their owne folly and weakeneſſe been wickedly and ſhrewdly ſeduced, and led aſide into moſt dangerous and damnable errours even to blaspheame againſt God himſelfe thorow the wicked craft, policy, and deluſions of the Devill, and that wicked Wretch <hi>John Robins,</hi> and the reſt of his wicked Confede<g ref="char:EOLhyphen"/>rates; but the Lord our God who is rich in grace and mercy to thoſe his
+<pb n="5" facs="tcp:165906:3"/>poore creatures who are ſeduced by Sathan and his wicked inſtruments, hath ſhewed great grace and mercy to the ſoules of your Petitioners, con<g ref="char:EOLhyphen"/>vincing them by his owne ſpirit, by his bleſſed word of truth, <hi>2. Theſ. 2.3.4.9.</hi> and <hi>10.</hi> verſes, that the ſayd <hi>John Robins, alias Roberts,</hi> and the reſt of his wicked Confederates are ſuch that are led aſide by the ſpirit of the Devill, and made uſe of by him to lead aſide poore ſilly wo<g ref="char:EOLhyphen"/>men and others into moſt damnable errours and blasphemy againſt God, after the maner and working of Sathan, with all deceiveableneſſe of un<g ref="char:EOLhyphen"/>righteouſneſſe, whereby we your poore Petitioners have been alſo ſedu<g ref="char:EOLhyphen"/>ced, for which they are much grieved and repent from their very hearts for all their folly and wickedneſſe, humbly begging mercy and grace from our God, and deſire to be throughly humbled before him for our great wickedneſſe herein.</p>
+                        <p>And doe humbly crave pardon for our offences done againſt your Worſhip, and the Lawes of this Common-wealth by our folly and wickedneſſe, and as the Lord hath now ſhewed mercy to our ſoules by opening our eyes to ſee our ſinnes and errours heerein; we be<g ref="char:EOLhyphen"/>lieve and humbly beſeech your Worſhip to ſhew grace and mercy to our poore bodies that lie in great miſery and want, having given all that we had to thoſe vild wretches, out of conſcience to God, and they having now forſaken us, who were before all maintained from one common ſtock and treaſury.</p>
+                        <p>Therefore your Petitioners humble requeſt to your Worſhip, is, that we may be ſet at liberty without bayle, becauſe we have no friends or acquaintance here in the City, but are all in the Country, becauſe our abode was formerly there, and that we may be freed from paying fees to the Keeper of the Priſon, we being very poore, and want mony to buy us bread.</p>
+                        <closer>
+                           <signed>
+                              <hi>And we ſhall ever pray,</hi> &amp;c.
+<list>
+                                 <item>Anne Burley.</item>
+                                 <item>Thomas Tydford.</item>
+                                 <item>Frances Bedwell.</item>
+                                 <item>Elizabeth Sor<g ref="char:EOLhyphen"/>rell <hi>the elder.</hi>
+                                 </item>
+                                 <item>Elizabeth Sorrell <hi>the yonger.</hi>
+                                 </item>
+                                 <item>Margaret Dunlape,</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="6" facs="tcp:165906:4"/>
+               <hi>After the delivery of this Petition to the right Worſhipfull</hi> Lawrence Whitaker, <hi>one of the Juſtices of the Peace for the Ci<g ref="char:EOLhyphen"/>ty and Liberty aforeſayd</hi> (viz.) <hi>upon the 15. day of</hi> June, An<g ref="char:EOLhyphen"/>no Domini, <hi>1651. the Petitioners being brought, and before him they owned this foregoing Petition to be made by their earneſt deſire, being convinced, declared their hearty ſorrow for hold<g ref="char:EOLhyphen"/>ing the foreſayd blaſphemous and erroneous opinions, and their great offences committed againſt God, and the Lawes of this Commonwealth, and in token thereof gave in then this Recan<g ref="char:EOLhyphen"/>tation, as it followes</hi> verbatim.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="recantation">
+                        <head>The Recantation of <hi>Thomas Tydford, Frances Bedwell, Anne Burley, Elizabeth Sorrell</hi> the elder, <hi>Elizabeth Sorrell</hi> the yonger, and <hi>Margaret Dunlape,</hi> taken by <hi>Lawrence Whitaker</hi> Eſquire, on the 13. day of <hi>Iune,</hi> 1651.</head>
+                        <p>WHereas wee whoſe names are ſubſcribed, did before the right Worſhipfull <hi>Lawrence Whitaker</hi> Eſquire, one of the Juſtices of Peace for the County of <hi>Middleſex,</hi> and Liberty of <hi>Weſtminſter,</hi> averre and maintaine that one <hi>John Robins, alias Ro<g ref="char:EOLhyphen"/>berts,</hi> is the God and Father of our Lord and Saviour Jeſus Chriſt, and that the childe that is now in the wombe of the ſayd <hi>Robins, alias Roberts</hi> wife, is the Saviour of all that ſhall be ſaved in this world, and likewiſe that <hi>Cain</hi> who ſlew his bro<g ref="char:EOLhyphen"/>ther <hi>Abell</hi> is the third Perſon of the Trinity, and thoſe that de<g ref="char:EOLhyphen"/>ny it deny their owne ſalvation; and that the ſayd <hi>John Robins, alias Roberts,</hi> hath power to raiſe the dead, all which aboveſayd opinions we doe now through Gods infinite mercy to us, con<g ref="char:EOLhyphen"/>feſſe
+<pb n="7" facs="tcp:165906:4"/>and acknowledge to be erroneous, damnable, and blaſ<g ref="char:EOLhyphen"/>phemous, and heereby doe fully and abſolutely renounce and diſclaime them: In teſtimony whereof we have heereunto ſer our hands this thirteenth day of <hi>June,</hi> 1651.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Thomas Tydford.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Frances Bedwell.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Anne Burley.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Elizabeth Sorrell</hi> the elder.</item>
+                                 <item>
+                                    <hi>Elizabeth Sorrell</hi> the yonger.</item>
+                                 <item>
+                                    <hi>Margaret Dunlape.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Upon this Petition, Submiſſion, and Recantation, Mr. <hi>Whitaker</hi> did take bayle for their appearance at the Seſſions following, <hi>viz.</hi> the 20. of <hi>June</hi> laft, where they appeared, and humbly pray<g ref="char:EOLhyphen"/>ed the mercy of the Court, acknowledged their former tenents ſpecified in the Examinations aforeſayd, and their Petition and Recantation to be made by their ſpecial direction, being convin<g ref="char:EOLhyphen"/>ced as in their Petition is ſpecified: The Court then demanded the grounds &amp; reaſons for their former opinions, of which they ſayd they could give no reaſon, but onely the perſwaſions and reports of <hi>Robins,</hi> which they believed, and God having juſtly for their former wickedneſſe left them to themſelves, were brought in, and ſeduced by the policy of the Devill, who will let ſlip no opportunity to advance his Kingdome; upon this they were ordered to ſend for good bayle to appeare at the next Seſſions, and to be of the good behaviour in the meane time, and ſo putting in bayle, and paying their fees were diſ<g ref="char:EOLhyphen"/>miſſed.</p>
+            <p>Then was <hi>Kearby</hi> called, who came before the Court like a mad man, reviled the Court, and curſed them, but being after<g ref="char:EOLhyphen"/>ward more temperate, acknowledged himſelfe to be a ſober
+<pb n="8" facs="tcp:165906:5"/>rationall man, he was examined upon every particular branch of his former Examination, which he refuſed to deny, where<g ref="char:EOLhyphen"/>upon the Court made this enſuing Order.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>At the Generall Seſſions of the Publick Peace holden for the City and Li<g ref="char:EOLhyphen"/>berty of <hi>Weſtminſter</hi> upon Fryday the <hi>20.</hi> day of <hi>June, 1651.</hi> before <hi>Thomas Latham</hi> and <hi>John Hooker</hi> Eſquires, and others the Juſtices aſſigned to keepe the publick Peace in the ſayd City and Liberty, and alſo, <hi>&amp;c.</hi>
+                        </head>
+                        <p>FOraſmuch as <hi>Thomas Kearby</hi> hath upon his Examination taken before <hi>Lawrence Whitaker</hi> Eſquire, confeſſed that he doth believe that <hi>John Robins, alias Roberts,</hi> is the God and Fa<g ref="char:EOLhyphen"/>ther of our Lord and Saviour Jeſus Chriſt, and the ſayd <hi>Kearby</hi> ſayd that the wife of the ſayd <hi>Robins, alias Roberts,</hi> ſhall bring forth a man child that ſhall be the Saviour of all that ſhall be ſaved in this World; hee affirmed further, that <hi>Caine</hi> who ſlew his brother <hi>Abell,</hi> is the third Perſon of the Trinity, and that thoſe that deny it, deny their owne ſalvation; hee ſayd further, that the ſayd <hi>Robins, alias Roberts,</hi> hath power to raiſe the dead, all which is moſt blaſpheamous, and againſt the honor of God, and againſt an Act of this preſent Parliament in this caſe lately made and provided. It is now therefore orde<g ref="char:EOLhyphen"/>red that the ſayd <hi>Thomas Kearby</hi> (who was brought to the Bar and charged there with the offences aforeſayd, who refuſed to deny the ſame, and carryed himſelfe uncivilly in the face of the Court, and curſed and reviled the Juſtices in open Court) bee removed from hence to the Gatehouſe priſon, from whence hee was brought, and ſhall bee immediately removed from thence to the houſe of Corection for the ſayd City and Liber<g ref="char:EOLhyphen"/>ty, there to remaine for the ſpace of ſix moneths without bayl
+<pb n="9" facs="tcp:165906:5"/>or mainprize, according to the direction of the ſayd late Act: and the Keeper of the ſayd houſe of Cor<g ref="char:EOLhyphen"/>rection is heereby ſtrictly required to ſet the ſayd <hi>Tho<g ref="char:EOLhyphen"/>mas Kearby</hi> to hard labour, and to give him corporall puniſhment as occaſion requireth.</p>
+                        <closer>
+                           <signed>
+                              <hi>Examined by</hi> John Watſon, <hi>Deputy to the Clarke of the Peace.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="postscript">
+            <pb n="10" facs="tcp:165906:6"/>
+            <head>Postſcript.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a Maxim among Scholars, <hi>contra Principem non eſt dispu<g ref="char:EOLhyphen"/>tandum; ergo,</hi> there is no ar<g ref="char:EOLhyphen"/>guing with <hi>Robins</hi> by Scrip<g ref="char:EOLhyphen"/>ture, ſince in acknowledging himſelfe to bee God, hee muſt needes deny the Authour of the Scriptures; hee is a God hee ſaies, but ſhewes no Mira<g ref="char:EOLhyphen"/>cles to confirme his Godhood, hath none of mankinde, (but blaſphemers) nor any of the creatures at his extraordi<g ref="char:EOLhyphen"/>nary command, cannot open the Priſon doores, procure his owne liberty, or followers from reſtraint, nor make ſo much as one poore ſilly Worme, or doe any thing at all extraordinary, more then blaſpheme God in an unheard of manner.</p>
+            <p>
+               <hi>Zeno</hi> the Phyloſopher obſerved much that Blaſ<g ref="char:EOLhyphen"/>phemers and Athieſts at their deaths would then aske God and the World forgiveneſſe, this hee ſayd confir<g ref="char:EOLhyphen"/>med him more in the beliefe of a Deity, then the Diſ<g ref="char:EOLhyphen"/>putes of all the Phyloſophers in the World.</p>
+            <p>
+               <pb n="11" facs="tcp:165906:6"/>And I am confident, who ever ſees <hi>Robins</hi> but at his death, will finde his minde altered, or whoever is in his company at any time, when the Lord of Hoſt ſhall thunder from Heaven, will ſoone perceive his Mortalli<g ref="char:EOLhyphen"/>ty, which will not conſiſt with Divinity, and under<g ref="char:EOLhyphen"/>ſtand his feare as well as know his blaſphemy: <hi>Caius Caligula</hi> that wicked Emperour, who made acount no other to bee God but himſelfe, yet when hee heard the Almighty thunder, and ſaw the lightning, hee would cover his head, and hide himſelfe under his bed for feare; whence ſhould this come, but out of a conſcience and for feare of God, which hee had diſho<g ref="char:EOLhyphen"/>noured? nor did God ſuffer him to live long on earth unpuniſhed for his blaſphemies, for ſhortly after hee was ſlaine by his owne ſervants. <hi>Alexanders</hi> uſurping the name of a God was no pleaſure to him at his death, hee was then forced to confeſſe his mortallity, and ſo you may bee ſure will <hi>Roberts</hi> before hee depart this life, and his Diſciples will finde another manner of God then hee. I have read of one <hi>Hanno</hi> who taught Birds to ſing <hi>Hanno</hi> is a God, and then let them looſe in the Ayre, and whereever they came they cry<g ref="char:EOLhyphen"/>ed <hi>Hanno</hi> is a God; as alſo <hi>Mahomet</hi> with his Pigeon which hee made ſo tractable as to picke Wheate out of his eare, and perſwaded the people 'twas the Ho<g ref="char:EOLhyphen"/>ly Ghoſt; heere was ſome ſhew of a Miracle, but this fellow will out-face us without a Card of ten, a meere nothing.</p>
+            <p>What can bee more derogatory to the alſufficiency of Chriſts ſufferings, then to mainetaine there muſt another Saviour come to fill up what hee could not per<g ref="char:EOLhyphen"/>forme? If any ſuch had beene to come, doubtleſſe our
+<pb n="12" facs="tcp:165906:7"/>Saviour would have foretold it, hee would not among the other things hee told us of, have left out ſo ma<g ref="char:EOLhyphen"/>teriall a matter; hee tells us of falſe Prophets, but of no more Saviours: But if <hi>Robins</hi> Heire, I ſay if his ſonne prove a daughter, ſure his few Diſciples will then leave him.</p>
+            <p>What can bee more blaſphemous, and more deroga<g ref="char:EOLhyphen"/>tory to the Holy Trinity, then to affirme himſelfe God the Father, his Brat <hi>(in poſſe)</hi> the Saviour of all that ſhall bee ſaved in this World, and (his Brother) <hi>Caine</hi> (without Gods great mercy) the third Perſon in the Holy Trinity? His conſcience in all this muſt needs give his tongue the lye, and except God give him a re<g ref="char:EOLhyphen"/>penting heart, he may be aſſured his ſin is no leſſe then that againſt the Holy Ghoſt, which ſhall never bee for<g ref="char:EOLhyphen"/>given in this world, nor in the world to come: however it cannot come far ſhort of it; and let men take heede how they run into ſuch ſinnes, for upon ſuch offences God is not eaſily appeaſed.</p>
+            <p>What a patcht Trinity doth he produce? <hi>viz.</hi> Him<g ref="char:EOLhyphen"/>ſelfe, his ſonne, and <hi>Cain,</hi> (brother Vagabonds) who in ſtead of reigning together as Gods in Heaven, without God give him (I meane <hi>Roberts</hi>) unfeigned repentance, may enjoy one anothers company in the blacke Abyſſe for evermore.</p>
+            <p>If hee have power to rayſe the dead, there is worke enough not far off to try his skill; heere are good ſtore of Churches and Churchyards about the City, and up<g ref="char:EOLhyphen"/>on which hee may make experiment; or of thoſe that are going there to be interd. But I have heard one of his Diſciples lately ſay, that <hi>Robins</hi> is <hi>Moſes,</hi> and a Prophet ſent from God to redeeme and bring home the Jewes,
+<pb n="13" facs="tcp:165906:7"/>and all the people of God that belong unto him, to the true worſhip of God: Whereunto I ſhall ſay, we can<g ref="char:EOLhyphen"/>not beleeve matters of ſo great conſequence, upon bare words; for we muſt prove the ſpirits if they are of God. And Matt. 11.13. All the Prophets prophecied untill <hi>John,</hi> and after him we read of no more that are to come, but falſe ones; except yee take the Orthodox Miniſters of the Goſpell for Prophets, which if ſo, it will not be denyed.</p>
+            <p>Beſides, Chriſt nor his Apoſtles have in any place in ſacred Writ foretold of any extraordinary Prophet; Chriſt, <hi>Moſes,</hi> and <hi>Elias</hi> are already come, and wee muſt looke for them no more till they come in the Clouds to judge the Earth, and to execute vengeance upon thoſe that know not God, or deny him: I ſay we cannot juſtifie the receiving of thy opinions, unleſſe thou bring cleare Scripture Texts to confirme them, the Di<g ref="char:EOLhyphen"/>ſciples would not receive a <hi>Paul</hi> before <hi>Barnabas</hi> had te<g ref="char:EOLhyphen"/>ſtified of him, Acts 9.26.27.</p>
+            <p>If thou art a Prophet, prove thy Authority as <hi>Moſes</hi> to <hi>Iſrael</hi> and <hi>Pharoh,</hi> and as our Saviour did to <hi>John,</hi> when hee ſent to him to know of him, if it were hee that were come, or was hee to looke for another; Chriſt bad them tell <hi>John</hi> what things they had heard and ſeene <hi>(viz.)</hi> the blinde ſee, the lame go, the leapers are cleanſed, the deafe heare, and the poore receive the Goſpel (are not taught to blaſpheme it.) Chriſt uſed theſe tokens to anſwer <hi>John,</hi> becauſe wee ſhould not ha<g ref="char:EOLhyphen"/>zard eternall happyneſſe in believing every one that ſayes hee is God, Chriſt, <hi>Elias,</hi> or a Prophet, for what ever was written before time was written for our learn<g ref="char:EOLhyphen"/>ing: And when <hi>Roberts</hi> can bring all theſe ſignes, wee
+<pb n="14" facs="tcp:165906:8"/>ſhall ſay more to him. And wee have an expreſſe command, that if an Angell from Heaven teach us any thing diſſonant to the word of God, believe him not: And let all that can heare or read the Scriptures, judge of the vaſt contrarieties betwixt <hi>Robins</hi> Tenents and them; 'tis as much difference as betwixt Heaven and Hell, light and darkneſſe, truth and falſhood.</p>
+            <p>I have heard alſo the ſayd Diſciple give out, that <hi>Robins</hi> either hath, or ſhall have power to divide the Sea as <hi>Moſes,</hi> and paſſe over on dry Land: the Thames is neare, he may do well to try experiments there firſt.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
